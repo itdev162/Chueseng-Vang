@@ -1206,19 +1206,19 @@
     ]
   },
   "packageFolders": {
-    "/Users/chewyvang/.nuget/packages/": {}
+    "/Users/johnpiapian/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/chewyvang/Code/itdev162/Chueseng-Vang/API/API.csproj",
+      "projectUniqueName": "/Users/johnpiapian/Code/matc/itdev162/Chueseng-Vang/API/API.csproj",
       "projectName": "API",
-      "projectPath": "/Users/chewyvang/Code/itdev162/Chueseng-Vang/API/API.csproj",
-      "packagesPath": "/Users/chewyvang/.nuget/packages/",
-      "outputPath": "/Users/chewyvang/Code/itdev162/Chueseng-Vang/API/obj/",
+      "projectPath": "/Users/johnpiapian/Code/matc/itdev162/Chueseng-Vang/API/API.csproj",
+      "packagesPath": "/Users/johnpiapian/.nuget/packages/",
+      "outputPath": "/Users/johnpiapian/Code/matc/itdev162/Chueseng-Vang/API/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/chewyvang/.nuget/NuGet/NuGet.Config"
+        "/Users/johnpiapian/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
@@ -1229,8 +1229,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "/Users/chewyvang/Code/itdev162/Chueseng-Vang/Application/Application.csproj": {
-              "projectPath": "/Users/chewyvang/Code/itdev162/Chueseng-Vang/Application/Application.csproj"
+            "/Users/johnpiapian/Code/matc/itdev162/Chueseng-Vang/Application/Application.csproj": {
+              "projectPath": "/Users/johnpiapian/Code/matc/itdev162/Chueseng-Vang/Application/Application.csproj"
             }
           }
         }
